@@ -9,4 +9,4 @@ This repository contains the tasks completed during my CodeAlpha Cyber Security 
 
 2. **Network Packet Sniffer**  
    - Uses Python and Scapy to analyze live network packets  
-   - [View Task PDF](./Task_2_Network_Packet_Sniffer/Task_2_Network_Packet_Sniffer.pdf)
+   - [View Task PDF](https://github.com/Mahnoor-hp29/Codealpha_tasks/blob/main/Task_2_Network_Packet_Sniffer.pdf)
